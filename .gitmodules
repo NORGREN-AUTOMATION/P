@@ -1,0 +1,8 @@
+[submodule "Controller_Gripper_Gamma"]
+	path = Controller_Gripper_Gamma
+	url = https://github.com/NORGREN-AUTOMATION/Controller_Gripper_Gamma.git
+	branch = main
+[submodule "Controller_Gripper_S2"]
+	path = Controller_Gripper_S2
+	url = https://github.com/NORGREN-AUTOMATION/Controller_Gripper_S2.git
+	branch = main
